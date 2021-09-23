@@ -122,3 +122,4 @@ werf использует алгоритм оптимистичных блоки
 │ - ⛵ image app
 └ Concurrent builds plan (no more than 5 images at the same time)
 ```
+

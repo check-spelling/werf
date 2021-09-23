@@ -363,3 +363,4 @@ You can reset the _gitArchive_ stage by inserting the **[werf reset]** or **[res
 Each _git stage_ stores service labels containing SHA commits that this _stage_ was built up on.
 werf will use them for creating patches when assembling the next _git stage_ (in a nutshell, it is a `git diff COMMIT_FROM_PREVIOUS_GIT_STAGE LATEST_COMMIT` for each described _git mapping_).
 So, if some stage has a saved commit that is not in a git repository (e.g., after rebasing), then werf would rebuild that stage at the next build using the latest commits.
+

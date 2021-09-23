@@ -52,3 +52,4 @@ Stapel image periodically needs to be updated to actualize ansible or when new v
     scripts/stapel/publish.sh NEW_VERSION
     ```
 6.  As new stapel version has been published change `VERSION` Go constant in the `pkg/stapel/stapel.go` to point to the new version and rebuild werf.
+

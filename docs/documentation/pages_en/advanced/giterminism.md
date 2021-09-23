@@ -91,3 +91,4 @@ To activate the `fromPath` mount it is necessary to use [werf-giterminism.yaml](
 Dockerfile image build context is context (read more about [context]({{ "reference/werf_yaml.html" | true_relative_url }}) directive) files from the current project git repository commit.
 
 Stapel image build context is all files that are added with [git]({{ "advanced/building_images_with_stapel/git_directive.html" | true_relative_url }}) directive from the current project git repository commit.
+

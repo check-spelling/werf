@@ -28,3 +28,4 @@ werf uses `--synchronization=https://synchronization.werf.io` (http _storage cac
 User may force arbitrary non-default address of synchronization service components if needed using explicit `--synchronization=:local|(kubernetes://NAMESPACE[:CONTEXT][@(base64:CONFIG_DATA)|CONFIG_PATH])|(http[s]://DOMAIN)` param.
 
 **NOTE:** Multiple werf processes working with the same project should use the same _storage_ and _synchronization_.
+

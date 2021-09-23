@@ -19,3 +19,4 @@ breadcrumbs: none
 <p>Each version of the tutorial takes into account the specifics of the programming language/framework and includes examples of the application source code and infrastructure (IaC).</p>
 
 <!--#include virtual="/guides/includes/landing-tiles.html" -->
+

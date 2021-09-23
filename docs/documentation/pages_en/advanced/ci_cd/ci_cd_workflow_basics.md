@@ -333,3 +333,4 @@ We recommend this configuration for those who would like to manage the CI/CD pro
 | Production | [Automatically deploy to production from master](#automatically-deploy-to-production-from-master) + rollback changes via revert |
 | Staging | [Automatically deploy to staging from master](#automatically-deploy-to-staging-from-master) |
 | Review | [Automatically deploy to review from a branch using a pattern](#automatically-deploy-to-review-from-a-branch-using-a-pattern) |
+

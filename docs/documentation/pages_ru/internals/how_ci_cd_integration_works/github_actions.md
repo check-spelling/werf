@@ -51,3 +51,4 @@ github.ci.werf.io/workflow-run-url=https://github.com/$GITHUB_REPOSITORY/actions
 ```shell
 werf ci-env github
 ```
+

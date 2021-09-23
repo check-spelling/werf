@@ -12,3 +12,4 @@ The `werf-giterminism.yaml` allows the use of certain uncommitted configuration 
 All the paths and globs in the config must be defined relative to the project directory.
 
 {% include reference/werf_giterminism_yaml/table.html %}
+

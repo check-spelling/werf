@@ -39,3 +39,4 @@ In that case, the `--kube-context=CONTEXT` deploy option should be set manually 
 ## Subcharts
 
 During deploy process werf will render, create and track all resources of all [subcharts]({{ "/advanced/helm/configuration/chart_dependencies.html" | true_relative_url }}).
+

@@ -31,3 +31,4 @@ directive_summary: mount
 Также, нужно иметь в виду, что на стадии `from` werf очищает точки монтирования в [базовом образе]({{ "advanced/building_images_with_stapel/base_image.html" | true_relative_url }}) (т.е. эти папки будут пусты).
 
 > По умолчанию, использование директивы `fromPath` и `from: build_dir` запрещено гитерминизмом (подробнее об этом в [статье]({{ "/advanced/giterminism.html#mount" | true_relative_url }}))
+

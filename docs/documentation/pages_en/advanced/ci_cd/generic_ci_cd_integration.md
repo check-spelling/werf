@@ -84,3 +84,4 @@ rm -rf $TMP_DOCKER_CONFIG
 
 `werf-ci-env.sh` should be called in the beginning of every CI/CD job, prior to running any werf commands.
 `werf-ci-env-cleanup.sh` should be called in the end of every CI/CD job.
+

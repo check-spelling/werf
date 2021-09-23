@@ -28,3 +28,4 @@ You can inspect and browse releases created by werf using commands such as `helm
 Existing helm 2 releases could be converted to helm 3 with the [`werf helm migrate2to3` command]({{ "/reference/cli/werf_helm_migrate2to3.html" | true_relative_url }}).
 
 Also [werf converge command]({{ "/reference/cli/werf_converge.html" | true_relative_url }}) detects existing helm 2 release for your project and converts it to the helm 3 automatically. Existing helm 2 release could exist in the case when your project has previously been deployed by the werf v1.1.
+

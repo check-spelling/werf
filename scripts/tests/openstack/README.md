@@ -17,3 +17,4 @@ export SSH_PRIVATE_KEY_PATH=~/.ssh/id_rsa
 ```shell
 ./run destroy
 ```
+

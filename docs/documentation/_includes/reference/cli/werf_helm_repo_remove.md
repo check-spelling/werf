@@ -51,3 +51,4 @@ werf helm repo remove [REPO1 [REPO2 ...]]
             $WERF_STATUS_PROGRESS_PERIOD_SECONDS or 5 seconds
 ```
 
+

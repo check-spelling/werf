@@ -62,3 +62,4 @@ The `fromCacheVersion` directive allows managing image reassembly.
 ```yaml
 fromCacheVersion: <arbitrary string>
 ```
+

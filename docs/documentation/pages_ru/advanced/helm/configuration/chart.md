@@ -39,3 +39,4 @@ version: 2.4.6
 ```
 
 `.helm/Chart.yaml` также требуется для определения [зависимостей чарта]({{ "/advanced/helm/configuration/chart_dependencies.html" | true_relative_url }}).
+

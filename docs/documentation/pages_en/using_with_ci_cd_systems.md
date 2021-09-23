@@ -176,3 +176,4 @@ export WERF_ENABLE_PROCESS_EXTERMINATOR=1
 You can also check out the [CI/CD workflow basics article]({{ "advanced/ci_cd/ci_cd_workflow_basics.html" | true_relative_url }}) that describes setting up your CI/CD workflows in a variety of ways.
 
 You may find a guide suitable for you project in the [guides section](/guides.html). These guides also contain detailed information about setting up specific CI/CD systems.
+

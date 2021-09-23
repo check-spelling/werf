@@ -29,3 +29,4 @@ werf содержит два инструмента для выполнения 
 
 Для запуска линтера необходимо выполнить команду [`werf helm lint`]({{ "reference/cli/werf_helm_lint.html" | true_relative_url }}). Ее можно выполнять как локально, так и в рамках pipeline CI/CD систем в качестве автоматического теста чарта на ошибки.
 Этой команде можно передавать все те-же параметры, что и команде [`werf converge`]({{ "reference/cli/werf_converge.html" | true_relative_url }}), в том числе передавать дополнительные [переменные]({{ "advanced/helm/configuration/values.html" | true_relative_url }}), адрес репозитория Docker-образов и другие параметры.
+

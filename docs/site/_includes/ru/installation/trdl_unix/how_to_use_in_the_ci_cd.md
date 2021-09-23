@@ -7,3 +7,4 @@ type trdl && . $(trdl use werf {{ include.version }} {{ include.channel }})
 # Теперь можно использовать werf
 werf ...
 ```
+

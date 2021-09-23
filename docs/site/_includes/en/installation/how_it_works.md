@@ -63,3 +63,4 @@ By default, trdl uses the mapping file which is maintained in the werf repositor
 
 Such an approach allows a user not to worry about updates and use the same werf binary version on CI and the local machine. 
 We create new releases with fixes and features and manage channels while you simply use a single command everywhere.
+

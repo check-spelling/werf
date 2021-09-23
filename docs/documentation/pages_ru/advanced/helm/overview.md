@@ -23,3 +23,4 @@ werf включает весь существующий функционал Hel
  1. Конфигурация helm для деплоя вашего приложения в kubernetes с помощью werf: [раздел "конфигурация"]({{ "advanced/helm/configuration/chart.html" | true_relative_url }}).
  2. Как werf реализует процесс деплоя: [раздел "процесс деплоя"]({{ "advanced/helm/deploy_process/steps.html" | true_relative_url }}).
  3. Что такое релиз и как управлять выкаченными релизами своих приложений: [раздел "релизы"]({{ "advanced/helm/releases/release.html" | true_relative_url }})
+

@@ -58,3 +58,4 @@ $newPath = "$trdlRepoBinPath;$oldPath"
 Во время этапа обновления, trdl попытается скачать требуемую версию werf на основе файла соответствия версий и каналов. По умолчанию trdl использует файл соответствия версий, который объявлен в репозитории werf: [https://raw.githubusercontent.com/werf/werf/multiwerf/trdl_channels.yaml](https://raw.githubusercontent.com/werf/werf/multiwerf/trdl_channels.yaml).
 
 Данный подход позволяет пользователю не думать об обновлениях werf и получать исправления проблем и новые возможности автоматически как в CI/CD системе, так и на локальной машине.
+

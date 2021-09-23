@@ -23,3 +23,4 @@ When working with remote git repos, werf uses the `SSH_AUTH_SOCK` environment va
 ## A temporary ssh-agent
 
 werf might run a temporary ssh-agent for some commands to work correctly. Such ssh-agent terminates when a corresponding werf command finishes its work. A temporary ssh-agent does not conflict with the default ssh-agent if one is present in the system.
+

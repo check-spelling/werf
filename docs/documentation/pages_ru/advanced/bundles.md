@@ -109,3 +109,4 @@ werf bundle apply --repo registry.mydomain.io/project --tag-mask v3.5.*
 Для работы с бандлами достаточно поддержки [спецификации формата образов Open Container Initiative (OCI)](https://github.com/opencontainers/image-spec) в container registry.
 
 Подробнее про поддерживаемые container registries можно прочитать в отдельной [статье]({{ "/advanced/supported_container_registries.html" | true_relative_url }}).
+

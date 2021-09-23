@@ -95,3 +95,4 @@ You can use the `--repo-github-token` option or the corresponding environment va
 werf uses the _GitLab Container Registry API_ or _Docker Registry API_ (depending on the GitLab version) to delete tags.
 
 > Privileges of the temporary CI job token (`$CI_JOB_TOKEN`) are not enough to delete tags. That is why the user have to create a dedicated token in the Access Token section (select the `api` in the Scope section) and [perform authorization](#authorization) using it
+

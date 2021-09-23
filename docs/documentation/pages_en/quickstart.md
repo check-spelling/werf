@@ -435,3 +435,4 @@ To deploy an application using werf, we should define the desired state in the G
 ## What's next?
 
 Check the ["Using werf with CI/CD systems" article](using_with_ci_cd_systems.html) or refer to the [guides](/guides.html).
+

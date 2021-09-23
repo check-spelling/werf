@@ -84,3 +84,4 @@ Read more about these in the [git directive article]({{ "advanced/building_image
 > Import paths and _git mappings_ must not overlap with each other
 
 Information about _using artifacts_ available in [separate article]({{ "advanced/building_images_with_stapel/artifacts.html" | true_relative_url }}).
+

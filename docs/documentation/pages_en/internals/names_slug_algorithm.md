@@ -54,3 +54,4 @@ The user should run the [`werf slugify` command]({{ "reference/cli/werf_slugify.
 ```shell
 werf converge --release $(werf slugify --format helm-release "MyProject/1") --namespace $(werf slugify --format kubernetes-namespace "MyProject/1") ...
 ```
+

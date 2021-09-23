@@ -200,3 +200,4 @@ werf uses the following syntax for accessing values contained in the chart templ
 {% endraw %}
 
 The `.Values` object contains the [merged map of resulting values](#merging-the-resulting-values) map.
+

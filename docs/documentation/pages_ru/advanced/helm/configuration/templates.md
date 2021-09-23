@@ -155,3 +155,4 @@ data:
 Следует обратить внимание, что значение параметра `--env ENV` доступно не только в шаблонах helm, но и [в шаблонах конфигурации `werf.yaml`]({{ "/reference/werf_yaml_template_engine.html#env" | true_relative_url }}).
 
 Больше информации про сервисные значения доступно [в статье про values]({{ "/advanced/helm/configuration/values.html" | true_relative_url }}).
+

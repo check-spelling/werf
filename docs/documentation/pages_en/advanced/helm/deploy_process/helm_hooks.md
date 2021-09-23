@@ -19,3 +19,4 @@ A lot of various helm hooks come into play during the deploy process. We have al
 Hooks are sorted in the ascending order specified by the `helm.sh/hook-weight` annotation (hooks with the same weight are sorted by the name). After that, hooks are created and executed sequentially. werf by default recreates the Kubernetes resource for each hook if that resource already exists in the cluster. Hooks are remained existing in the Kubernetes cluster after execution.
 
 Created hooks resources will not be deleted after completion, unless there is [special annotation `"helm.sh/hook-delete-policy": hook-succeeded,hook-failed`](https://helm.sh/docs/topics/charts_hooks/).
+

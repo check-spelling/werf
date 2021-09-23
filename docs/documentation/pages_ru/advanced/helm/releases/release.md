@@ -24,3 +24,4 @@ werf полностью совместим с уже установленным 
 ### Совместимость с Helm 2
 
 Существующие релизы helm 2 (созданные например через werf v1.1) могут быть конвертированы в helm 3 либо автоматически во время работы команды [`werf converge`]({{ "/reference/cli/werf_converge.html" | true_relative_url }}), либо с помощью команды [`werf helm migrate2to3`]({{ "/reference/cli/werf_helm_migrate2to3.html" | true_relative_url }}).
+

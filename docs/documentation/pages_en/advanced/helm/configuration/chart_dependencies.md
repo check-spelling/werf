@@ -157,3 +157,4 @@ This will export all the keys found in `.Values.exports.somemap` to the root of 
 ## Obsolete requirements.yaml and requirements.lock
 
 An older way of storing dependencies in the `.helm/requirements.yaml` and `.helm/requirements.lock` files is also supported by the werf, but it is recommended to use `.helm/Chart.yaml` and `.helm/Chart.lock` instead. 
+

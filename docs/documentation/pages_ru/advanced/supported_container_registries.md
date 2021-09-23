@@ -94,3 +94,4 @@ HUB_TOKEN=$(curl -s -H "Content-Type: application/json" -X POST -d '{"username":
 При удалении тегов werf использует _GitLab Container Registry API_ или _Docker Registry API_ в зависимости от версии GitLab.
 
 > Для удаления тега прав временного токена CI-задания (`$CI_JOB_TOKEN`) недостаточно, поэтому пользователю необходимо создать специальный токен в разделе Access Token (в секции Scope необходимо выбрать `api`) и [выполнить авторизацию](#авторизация) с ним 
+

@@ -47,3 +47,4 @@ This command consists of multiple subcommands to display information about a cha
             $WERF_STATUS_PROGRESS_PERIOD_SECONDS or 5 seconds
 ```
 
+

@@ -126,3 +126,4 @@ After building a tree of image dependencies, werf splits the assembly process in
 │ - ⛵ image app
 └ Concurrent builds plan (no more than 5 images at the same time)
 ```
+

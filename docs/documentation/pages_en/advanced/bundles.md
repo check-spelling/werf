@@ -109,3 +109,4 @@ This bundle apply should check available versions by specified mask `v3.5.*`, se
 The [Open Container Initiative (OCI) Image Spec](https://github.com/opencontainers/image-spec) support in the container registry is sufficient to work with bundles.
 
 You can read more about supported container registries in a separate [article]({{ "/advanced/supported_container_registries.html" | true_relative_url }}).
+

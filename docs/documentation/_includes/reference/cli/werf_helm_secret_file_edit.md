@@ -97,3 +97,4 @@ werf helm secret file edit FILE_PATH [options]
             $WERF_STATUS_PROGRESS_PERIOD_SECONDS or 5 seconds
 ```
 
+

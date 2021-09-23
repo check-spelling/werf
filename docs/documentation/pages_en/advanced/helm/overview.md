@@ -24,3 +24,4 @@ This chapter covers following sections:
  1. Configuration of helm to deploy your application into kubernetes with werf: [configuration section]({{ "advanced/helm/configuration/chart.html" | true_relative_url }}).
  2. How werf runs a deploy process: [deploy process section]({{ "advanced/helm/deploy_process/steps.html" | true_relative_url }}).
  3. What is release and how to manage deployed releases of your applications: [releases section]({{ "advanced/helm/releases/release.html" | true_relative_url }}).
+

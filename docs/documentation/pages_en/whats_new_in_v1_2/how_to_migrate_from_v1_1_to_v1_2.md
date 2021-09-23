@@ -132,3 +132,4 @@ Simply follow this guide to migrate your project from v1.1 to v1.2.
      - Helm 2 release should have the same name as newly used helm 3 release.
  - Before migrating werf will try to render and validate current `.helm/templates` and continue migration only when render succeeded.
  - **IMPORTANT** Once project has been migrated to helm 3 there is no legal way back to the werf v1.1 and helm 2.
+

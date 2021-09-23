@@ -60,3 +60,4 @@ werf helm plugin install [options] <path|url>... [flags]
             $WERF_STATUS_PROGRESS_PERIOD_SECONDS or 5 seconds
 ```
 
+

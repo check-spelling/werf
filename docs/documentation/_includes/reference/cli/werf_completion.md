@@ -29,3 +29,4 @@ werf completion [options]
             Set to bash or zsh (default $WERF_SHELL or bash)
 ```
 
+

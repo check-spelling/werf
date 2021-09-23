@@ -37,3 +37,4 @@ Thus, instructions do not affect other stages, ones just will be applied to a bu
 If need to use special environment variables in build-time of your application image, such as `TERM` environment, you should use a [base image]({{ "advanced/building_images_with_stapel/base_image.html" | true_relative_url }}) with these variables.
 
 > Tip: you can also implement exporting environment variables right in [_user stage_]({{ "advanced/building_images_with_stapel/assembly_instructions.html#what-are-user-stages" | true_relative_url }}) instructions
+

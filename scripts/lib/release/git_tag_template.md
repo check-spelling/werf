@@ -11,3 +11,4 @@ RELEASE_TEXT
 [Darwin arm64](https://storage.yandexcloud.net/werf/targets/releases/$VERSION/werf-darwin-arm64-$VERSION)
 
 [Windows amd64](https://storage.yandexcloud.net/werf/targets/releases/$VERSION/werf-windows-amd64-$VERSION.exe)
+

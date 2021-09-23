@@ -117,3 +117,4 @@ data:
 {% endraw %}
 
 Note that `backend-saml/stage/` is an arbitrary file structure. User can place all files into the single directory `.helm/secret` or create subdirectories at his own discretion.
+

@@ -56,3 +56,4 @@ werf проверяет текст на соответствие требова�
 ```shell
 werf converge --release $(werf slugify --format helm-release "MyProject/1") --namespace $(werf slugify --format kubernetes-namespace "MyProject/1") ...
 ```
+

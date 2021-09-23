@@ -157,3 +157,4 @@ spec:
 ## Устаревшие файлы requirements.yaml и requirements.lock
 
 Устаревший формат описания зависимостей через файлы `.helm/requirements.yaml` и `.helm/requirements.lock` тоже поддерживается werf. Однако рекомендуется переходить на `.helm/Chart.yaml` и `.helm/Chart.lock`.
+

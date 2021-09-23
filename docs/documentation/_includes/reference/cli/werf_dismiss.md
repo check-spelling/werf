@@ -221,3 +221,4 @@ werf dismiss [options]
             Delete Kubernetes Namespace after purging Helm Release (default $WERF_WITH_NAMESPACE)
 ```
 
+

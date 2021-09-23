@@ -29,3 +29,4 @@ Lint checks a [chart]({{ "advanced/helm/configuration/chart.html" | true_relativ
  * security risk analysis [coming soon](https://github.com/werf/werf/issues/1317).
 
 [`werf helm lint` command]({{ "reference/cli/werf_helm_lint.html" | true_relative_url }}) runs all of these checks and can be used either in local development or in the CI/CD pipeline to automate chart checking procedure. The same params as in [`werf converge` command]({{ "reference/cli/werf_converge.html" | true_relative_url }}) can be passed (such as additional [values]({{ "advanced/helm/configuration/values.html" | true_relative_url }}), repo, environment and other).
+

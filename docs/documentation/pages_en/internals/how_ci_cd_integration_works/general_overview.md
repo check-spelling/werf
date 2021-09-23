@@ -210,3 +210,4 @@ Within the [configure modes of operation in CI/CD systems](#configure-modes-of-o
  * [How does an integration with GitLab CI work?]({{ "internals/how_ci_cd_integration_works/gitlab_ci_cd.html" | true_relative_url }}).
  * [How does an integration with GitHub Actions work?]({{ "internals/how_ci_cd_integration_works/github_actions.html" | true_relative_url }}).
  * [Generalized guide on using werf with any CI/CD system]({{ "advanced/ci_cd/generic_ci_cd_integration.html" | true_relative_url }}).
+

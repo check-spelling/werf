@@ -69,3 +69,4 @@ gitlab.ci.werf.io/job-url=$CI_PROJECT_URL/-/jobs/$CI_JOB_ID
 ```shell
 werf ci-env gitlab
 ```
+

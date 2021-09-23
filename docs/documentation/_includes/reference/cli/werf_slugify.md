@@ -65,3 +65,4 @@ werf slugify STRING [options]
             Enable verbose output (default $WERF_LOG_VERBOSE).
 ```
 
+

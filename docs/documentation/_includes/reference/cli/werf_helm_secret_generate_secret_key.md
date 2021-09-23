@@ -62,3 +62,4 @@ werf helm secret generate-secret-key
             $WERF_STATUS_PROGRESS_PERIOD_SECONDS or 5 seconds
 ```
 
+

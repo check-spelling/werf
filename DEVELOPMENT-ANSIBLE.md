@@ -70,3 +70,4 @@ root@d49822e52346:/# /.dapp/deps/ansible/2.4.4.0-10/embedded/bin/ansible-playboo
 ```
 
 When changes are ready, run `go generate ./...` from $REPO_ROOT and commit static.go and *.py files.
+

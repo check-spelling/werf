@@ -338,3 +338,4 @@ WERF_VOTE_DOCKER_IMAGE_NAME=quickstart-application:45f03bdd90c844eb2e61e7e01dae4
      - документация продвинутого уровня;
      - внутренности.
  - Новая секция с руководствами.
+

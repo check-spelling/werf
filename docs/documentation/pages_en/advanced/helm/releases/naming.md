@@ -52,3 +52,4 @@ You can also define the custom Kubernetes Namespace in the werf.yaml configurati
 The Kubernetes namespace that is constructed using the template will be slugified to fit the [DNS Label](https://www.ietf.org/rfc/rfc1035.txt) requirements according to the [*namespace slugging procedure*]({{ "internals/names_slug_algorithm.html#basic-algorithm" | true_relative_url }}) that generates a unique and valid Kubernetes Namespace.
 
 This is default behavior. It can be disabled by [setting `deploy.namespaceSlug=false`]({{ "/reference/werf_yaml.html#kubernetes-namespace" | true_relative_url }}) in the werf.yaml configuration.
+

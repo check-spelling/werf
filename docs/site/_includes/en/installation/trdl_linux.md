@@ -30,3 +30,4 @@ werf version
 ```shell
 echo '. $(trdl use werf {{ include.version }} {{ include.channel }})' >> ~/.bashrc
 ```
+

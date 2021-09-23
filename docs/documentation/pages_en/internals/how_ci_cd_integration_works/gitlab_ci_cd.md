@@ -69,3 +69,4 @@ You can turn on the integration with GitLab CI by invoking the [`werf ci-env` co
 ```shell
 werf ci-env gitlab
 ```
+

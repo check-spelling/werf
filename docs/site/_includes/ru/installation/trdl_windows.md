@@ -26,3 +26,4 @@ trdl add werf https://tuf.werf.io 1 b7ff6bcbe598e072a86d595a3621924c8612c7e6dc6a
 Invoke-Expression -Command "trdl use werf {{ include.version }} {{ include.channel }} --shell powershell" | Out-String -OutVariable WERF_USE_SCRIPT_PATH
 . $WERF_USE_SCRIPT_PATH.Trim()
 ```
+

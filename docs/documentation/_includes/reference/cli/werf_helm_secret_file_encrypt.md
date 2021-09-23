@@ -99,3 +99,4 @@ werf helm secret file encrypt [FILE_PATH] [options]
             $WERF_STATUS_PROGRESS_PERIOD_SECONDS or 5 seconds
 ```
 
+

@@ -11,3 +11,4 @@ Main release script:
 3. Publish release by the specified tag:
    - sign uploaded binaries;
    - create github release.
+

@@ -14,3 +14,4 @@ werf предоставляет следующие команды низкого
  - [`werf helm get all RELEASE`]({{ "reference/cli/werf_helm_get_all.html" | true_relative_url }}) — для получения информации по указанному релизу, манифестов, хуков и values, записанных в версию релиза;
  - [`werf helm status RELEASE`]({{ "reference/cli/werf_helm_status.html" | true_relative_url }}) — для получения статуса последней версии указанного релиза;
  - [`werf helm history RELEASE`]({{ "reference/cli/werf_helm_history.html" | true_relative_url }}) — для получения списка версий указанного релиза.
+

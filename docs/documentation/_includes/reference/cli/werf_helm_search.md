@@ -49,3 +49,4 @@ Use search subcommands to search different locations for charts.
             $WERF_STATUS_PROGRESS_PERIOD_SECONDS or 5 seconds
 ```
 
+

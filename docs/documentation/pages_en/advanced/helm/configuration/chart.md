@@ -39,3 +39,4 @@ version: 2.4.6
 ```
 
 `.helm/Chart.yaml` is also needed to define [chart dependencies]({{ "/advanced/helm/configuration/chart_dependencies.html" | true_relative_url }}).
+

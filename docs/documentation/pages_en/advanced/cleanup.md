@@ -123,3 +123,4 @@ The [**werf host purge**]({{ "reference/cli/werf_host_purge.html" | true_relativ
 **CAUTION!** By default, if no additional parameters are specified, `werf host purge` would completely destroy all werf traces on the host: images, stages, cache, and other data (service folders, temporary files) for all projects. This command provides the maximum level of cleaning.
 
 If the `--project-name PROJECT` parameter is set, the command will delete images present on the local docker server related to the PROJECT. In this mode, the command is partially functional: werf will not delete images on the local docker server associated with the remote image storage in the container registry (e.g., local images left from running `werf converge --repo REPO`). You can use the `werf host cleanup` command (that cleans up all the outdated host data) to clean up these images.
+

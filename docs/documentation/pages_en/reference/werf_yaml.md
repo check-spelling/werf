@@ -304,3 +304,4 @@ The `contextAddFiles` files have a higher priority than the files from the curre
 ### Stapel builder
 
 Another alternative to building images with Dockerfiles is werf stapel builder, which is tightly integrated with Git and allows really fast incremental rebuilds on changes in the Git files.
+

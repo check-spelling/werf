@@ -520,3 +520,4 @@ shell:
 {% endraw %}
 
 The build script can be used to download `some-library-latest.tar.gz` archive and then execute the `werf build` command. Any changes to the file trigger the rebuild of the _install user stage_ and all the subsequent stages.
+

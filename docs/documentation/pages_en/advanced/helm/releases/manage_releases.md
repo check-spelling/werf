@@ -14,3 +14,4 @@ werf also provides low-level helm commands to manage releases:
  - [`werf helm get all RELEASE` command]({{ "reference/cli/werf_helm_get_all.html" | true_relative_url }}) to get release manifests, hooks or values recorded into the release;
  - [`werf helm status RELEASE` command]({{ "reference/cli/werf_helm_status.html" | true_relative_url }}) to get status of the latest version of the specified release;
  - [`werf helm history RELEASE` command]({{ "reference/cli/werf_helm_history.html" | true_relative_url }}) to get list of recorded versions for the specified release.
+
