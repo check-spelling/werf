@@ -83,7 +83,7 @@ werf is not a complete CI/CD solution, but a tool for creating pipelines that ca
 - Ability to limit user permissions using RBAC definition when deploying an application (Tiller is compiled into werf and is run under the ID of the outside user that carries out the deployment).
 - Parallel builds on a single host (using file locks).
 - Distributed parallel deploys (coming soon) [#1620](https://github.com/werf/werf/issues/1620).
-- Сontinuous delivery of images with permanent tags (e.g., when using a branch-based tagging strategy).
+- continuous delivery of images with permanent tags (e.g., when using a branch-based tagging strategy).
 
 ### Cleaning up
 
